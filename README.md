@@ -4,6 +4,8 @@
 ### 📫 How to reach me
 - Rodriguez@jadent.dev
 
+- [linkedin](https://www.linkedin.com/in/jaden-rodriguez-59a000242/)
+
 ### 🔭 I’m currently working on
  [MyAniRank](https://myanirank-eccrvfr2a-jadentr44.vercel.app/)
  
